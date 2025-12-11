@@ -31,4 +31,5 @@ The project performs the following:
 - Python 3  
 - pandas  
 - matplotlib  
-- Jupyter Notebook 
+- Jupyter Notebook
+- VS Code
